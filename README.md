@@ -13,7 +13,7 @@
 - 🌱 I’m learning **Next.js & TypeScript**
 - 👯 I’m looking to collaborate on **Open Source Projects**
 - 💬 Ask me about **React, Node.js, Python**
-- 📫 Reach me: **youremail@example.com**
+- 📫 Reach me: **tharunkhan768@gmail.com**
 - ⚡ Fun fact: **I love solving puzzles & playing chess**
 
 ---
