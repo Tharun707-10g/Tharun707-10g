@@ -9,7 +9,7 @@
 
 ### 👨‍💻 About Me
 
-- 🔭 I’m currently working on AI-generators
+- 🔭 I’m currently working on **AI-generators**
 - 🌱 I’m learning **Next.js & TypeScript**
 - 👯 I’m looking to collaborate on **Open Source Projects**
 - 💬 Ask me about **React, Node.js, Python**
